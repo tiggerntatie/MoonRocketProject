@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://b87fm1xjhkcrg"]
+
+[node name="Title" type="Label3D"]
+transform = Transform3D(1, 0, 0, 0, 1.29721, 0, 0, 0, 1, 1.19309, 1.69992, -3.37222)
+modulate = Color(0.572549, 0.156863, 0.376471, 1)
+text = "Hello World!"

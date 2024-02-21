@@ -1,11 +1,11 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1705610697
-export_presets.cfg::TextFile::-1::1705609700::0::1::::<><>::
+::res://::1708208301
+export_presets.cfg::TextFile::-1::1705610713::0::1::::<><>::
 icon.svg::CompressedTexture2D::7202257976296187642::1702234085::1702234097::1::::<><>::
 level.gd::GDScript::-1::1702502286::0::1::::<>Node3D<>::
-level.tscn::PackedScene::7624741626325435685::1705609315::0::1::::<><>::res://level.gd<>uid://d35joaergcax::::res://player.tscn<>uid://c0b176jjcv1n1::::res://textures/rocky_trail_02_diff_4k.png<>uid://b8pwoxu46w7rw::::res://textures/rocky_trail_02_nor_gl_4k.png<>uid://b87fm1xjhkcrg::::res://title.tscn<>uid://bxx21olivh3dv::::res://textures/rocky_trail_02_rough_4k.png
+level.tscn::PackedScene::7624741626325435685::1708206494::0::1::::<><>::res://level.gd<>uid://d35joaergcax::::res://player.tscn<>uid://c0b176jjcv1n1::::res://textures/rocky_trail_02_diff_4k.png<>uid://b8pwoxu46w7rw::::res://textures/rocky_trail_02_nor_gl_4k.png<>uid://b87fm1xjhkcrg::::res://title.tscn<>uid://bxx21olivh3dv::::res://textures/rocky_trail_02_rough_4k.png
 openxr_action_map.tres::OpenXRActionMap::5451621454926516031::1702241294::0::1::::<><>::
-Player.gd::GDScript::-1::1705608886::0::1::::<>RigidBody3D<>::
+Player.gd::GDScript::-1::1708205330::0::1::::<>RigidBody3D<>::
 player.tscn::PackedScene::270207425487508447::1705608886::0::1::::<><>::res://Player.gd
 title.tscn::PackedScene::4769039027925048048::1702593384::0::1::::<><>::
 ::res://textures/::1703102557
